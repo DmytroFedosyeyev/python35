@@ -831,7 +831,7 @@
 #     writer = csv.DictWriter(file, fieldnames=file_names)
 #     writer.writerows(rows)
 
-# Небольшие исправления:
+
 #
 # import csv
 #
@@ -849,3 +849,7 @@
 # except Exception as e:
 #     print(f'Ошибка {e}')
 # # Код выглядит корректным, запустите его чтобы создать файл students.csv.
+
+print('Hello')
+
+
